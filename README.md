@@ -4,7 +4,7 @@ Bienvenue dans le projet DedSec, une application moderne et performante pour gé
 
 ## Description
 
-**DedSec** est une plateforme permettant de [ajouter une brève description de ce que fait ton projet]. Il est conçu pour être facile à utiliser, extensible et performant.
+**DedSec** est une plateforme permettant de faire quelque hack. Il est conçu pour être facile à utiliser, extensible et performant.
 
 ### Fonctionnalités
 - Fonctionnalité 1 : DDOS
@@ -14,6 +14,7 @@ Bienvenue dans le projet DedSec, une application moderne et performante pour gé
 - and other
 
 ## Prérequis
+- aucun
 
 ## Installation
 
